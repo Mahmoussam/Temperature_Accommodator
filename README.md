@@ -14,3 +14,4 @@ The goal is to:
 - L293D
 ## Schematic
 ![alt text](https://github.com/Mahmoussam/Temperature_Accommodator/blob/master/Screenshot%202024-08-09%20200301.png)
+proteus simulation file is attached too!
